@@ -4,7 +4,7 @@
 
 ### Feel free to explore the solutions and learn from them. Keep in mind that there might be multiple ways to solve a problem, so my solutions might differ from others you find. If you have any suggestions or improvements, feel free to open an issue or a pull request.
 
-### If you have any questions, contact me at braykzmi@gmail.com
+### If you have any questions, contact me at braydemi@nyu.edu
 
 ### Happy coding! 🚀
 
